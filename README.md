@@ -1,7 +1,5 @@
-# cartodb-github-template
-A starter template for creating a fullscreen cartodb.js map with bootstrap navbar
+# opendatalaws
+There are more and more open data laws being passed around the world. This is a hub to keep track of current open data laws and explore what open data laws of the future could be. 
 
-- Uses the cartodb base layer and data from this [cartodb.js tutorial](http://docs.cartodb.com/tutorials/create_map_cartodbjs.html)
-- Based on this [bootstrap starter template](http://getbootstrap.com/examples/starter-template/)
+This site is built off of Chris Whong's [CartoDB GitHub Template](https://github.com/chriswhong/cartodb-github-template). Thanks Chris! 
 
-![screenshot](https://www.evernote.com/shard/s288/sh/cf9f5723-a8b5-4eba-8a8b-98227ebbc9b6/1d6f64d6a6cceb573fa0ad7eb5fb4f36/res/9893047c-9628-4783-9be0-24197d35a58b/skitch.png?resizeSmall&width=832)
